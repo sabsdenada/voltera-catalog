@@ -1,0 +1,3285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Voltera demo catalog | REMEDIATED - after the catalog work described in the assignment | generated 2026-09-01 | 120 records
+     Fictional data for Insider One onboarding training. Not a real retailer. -->
+<catalog>
+  <channel>
+    <title>Voltera</title>
+    <link>https://voltera.example</link>
+    <locale>en_US</locale>
+    <item>
+      <item_id>VLT-88201</item_id>
+      <locale>en_US</locale>
+      <name>Asus Zenbook 14 OLED 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88201</url>
+      <image_url>https://voltera.example/img/vlt-88201.jpg</image_url>
+      <group_code>GRP-zenbook-14-oled</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>899.00</price>
+      <original_price>1000.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>7</stock_count>
+      <color>Silver</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.20 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i5-1340P. Rated up to 14 hours of battery life and measured at 22 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i5-1340P</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.2</weight_kg>
+      <battery_life_hours>14</battery_life_hours>
+      <noise_level_db>22</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88203</item_id>
+      <locale>en_US</locale>
+      <name>Asus Zenbook 14 OLED 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88203</url>
+      <image_url>https://voltera.example/img/vlt-88203.jpg</image_url>
+      <group_code>GRP-zenbook-14-oled</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>899.00</price>
+      <original_price>1060.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>17</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.20 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i5-1340P. Rated up to 14 hours of battery life and measured at 22 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i5-1340P</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.2</weight_kg>
+      <battery_life_hours>14</battery_life_hours>
+      <noise_level_db>22</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88204</item_id>
+      <locale>en_US</locale>
+      <name>Asus Zenbook 14 OLED Pro 32GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88204</url>
+      <image_url>https://voltera.example/img/vlt-88204.jpg</image_url>
+      <group_code>GRP-zenbook-14-oled-pro</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1149.00</price>
+      <original_price>1149.00</original_price>
+      <currency>USD</currency>
+      <in_stock>0</in_stock>
+      <stock_count>0</stock_count>
+      <color>Blue</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.24 kg 14.0" laptop with 32 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-1360P. Rated up to 13 hours of battery life and measured at 23 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>32</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-1360P</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.24</weight_kg>
+      <battery_life_hours>13</battery_life_hours>
+      <noise_level_db>23</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88205</item_id>
+      <locale>en_US</locale>
+      <name>Asus Zenbook 14 OLED Pro 32GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88205</url>
+      <image_url>https://voltera.example/img/vlt-88205.jpg</image_url>
+      <group_code>GRP-zenbook-14-oled-pro</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1149.00</price>
+      <original_price>1435.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>29</stock_count>
+      <color>White</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.24 kg 14.0" laptop with 32 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-1360P. Rated up to 13 hours of battery life and measured at 23 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>32</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-1360P</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.24</weight_kg>
+      <battery_life_hours>13</battery_life_hours>
+      <noise_level_db>23</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88206</item_id>
+      <locale>en_US</locale>
+      <name>Asus Vivobook 15 8GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88206</url>
+      <image_url>https://voltera.example/img/vlt-88206.jpg</image_url>
+      <group_code>GRP-vivobook-15</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>649.00</price>
+      <original_price>649.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>39</stock_count>
+      <color>Black</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.70 kg 15.6" laptop with 8 GB of memory and a 512 GB SSD, powered by the Intel Core i3-1315U. Rated up to 9 hours of battery life and 30 dB under load.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>8</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i3-1315U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.7</weight_kg>
+      <battery_life_hours>9</battery_life_hours>
+      <noise_level_db>30</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88207</item_id>
+      <locale>en_US</locale>
+      <name>Asus Vivobook 15 8GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88207</url>
+      <image_url>https://voltera.example/img/vlt-88207.jpg</image_url>
+      <group_code>GRP-vivobook-15</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>649.00</price>
+      <original_price>720.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>27</stock_count>
+      <color>Grey</color>
+      <use_case>Everyday</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>A 1.70 kg 15.6" laptop with 8 GB of memory and a 512 GB SSD, powered by the Intel Core i3-1315U. Rated up to 9 hours of battery life and 30 dB under load.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>8</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i3-1315U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.7</weight_kg>
+      <battery_life_hours>9</battery_life_hours>
+      <noise_level_db>30</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88209</item_id>
+      <locale>en_US</locale>
+      <name>Asus ROG Strix G16 16GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88209</url>
+      <image_url>https://voltera.example/img/vlt-88209.jpg</image_url>
+      <group_code>GRP-rog-strix-g16</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1699.00</price>
+      <original_price>1699.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>31</stock_count>
+      <color>White</color>
+      <use_case>Gaming</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 2.50 kg 16.0" laptop with 16 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-13650HX. Rated up to 6 hours of battery life and 48 dB under load. Graphics: RTX 4060.</description>
+      <screen_size>16.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-13650HX</processor>
+      <graphics>RTX 4060</graphics>
+      <weight_kg>2.5</weight_kg>
+      <battery_life_hours>6</battery_life_hours>
+      <noise_level_db>48</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88212</item_id>
+      <locale>en_US</locale>
+      <name>Asus TUF Gaming A15 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88212</url>
+      <image_url>https://voltera.example/img/vlt-88212.jpg</image_url>
+      <group_code>GRP-tuf-gaming-a15</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1099.00</price>
+      <original_price>1295.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>19</stock_count>
+      <color>Black</color>
+      <use_case>Gaming</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 2.20 kg 15.6" laptop with 16 GB of memory and a 512 GB SSD, powered by the AMD Ryzen 7 7735HS. Rated up to 7 hours of battery life and 45 dB under load. Graphics: RTX 4050.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>AMD Ryzen 7 7735HS</processor>
+      <graphics>RTX 4050</graphics>
+      <weight_kg>2.2</weight_kg>
+      <battery_life_hours>7</battery_life_hours>
+      <noise_level_db>45</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88213</item_id>
+      <locale>en_US</locale>
+      <name>Asus TUF Gaming A15 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88213</url>
+      <image_url>https://voltera.example/img/vlt-88213.jpg</image_url>
+      <group_code>GRP-tuf-gaming-a15</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1099.00</price>
+      <original_price>1099.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>22</stock_count>
+      <color>Blue</color>
+      <use_case>Gaming</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 2.20 kg 15.6" laptop with 16 GB of memory and a 512 GB SSD, powered by the AMD Ryzen 7 7735HS. Rated up to 7 hours of battery life and 45 dB under load. Graphics: RTX 4050.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>AMD Ryzen 7 7735HS</processor>
+      <graphics>RTX 4050</graphics>
+      <weight_kg>2.2</weight_kg>
+      <battery_life_hours>7</battery_life_hours>
+      <noise_level_db>45</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88216</item_id>
+      <locale>en_US</locale>
+      <name>Apple MacBook Air 13 16GB 256GB</name>
+      <url>https://voltera.example/p/vlt-88216</url>
+      <image_url>https://voltera.example/img/vlt-88216.jpg</image_url>
+      <group_code>GRP-macbook-air-13</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1099.00</price>
+      <original_price>1099.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>2</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.24 kg 13.6" laptop with 16 GB of memory and a 256 GB SSD, powered by the Apple M3. Rated up to 18 hours of battery life.</description>
+      <screen_size>13.6</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>256</storage_gb>
+      <processor>Apple M3</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.24</weight_kg>
+      <battery_life_hours>18</battery_life_hours>
+      <noise_level_db>0</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>macOS</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88218</item_id>
+      <locale>en_US</locale>
+      <name>Apple MacBook Air 13 16GB 256GB</name>
+      <url>https://voltera.example/p/vlt-88218</url>
+      <image_url>https://voltera.example/img/vlt-88218.jpg</image_url>
+      <group_code>GRP-macbook-air-13</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1099.00</price>
+      <original_price>1099.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>60</stock_count>
+      <color>Silver</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.24 kg 13.6" laptop with 16 GB of memory and a 256 GB SSD, powered by the Apple M3. Rated up to 18 hours of battery life.</description>
+      <screen_size>13.6</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>256</storage_gb>
+      <processor>Apple M3</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.24</weight_kg>
+      <battery_life_hours>18</battery_life_hours>
+      <noise_level_db>0</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>macOS</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88219</item_id>
+      <locale>en_US</locale>
+      <name>Apple MacBook Air 15 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88219</url>
+      <image_url>https://voltera.example/img/vlt-88219.jpg</image_url>
+      <group_code>GRP-macbook-air-15</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1299.00</price>
+      <original_price>1299.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>34</stock_count>
+      <color>White</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.51 kg 15.3" laptop with 16 GB of memory and a 512 GB SSD, powered by the Apple M3. Rated up to 18 hours of battery life.</description>
+      <screen_size>15.3</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Apple M3</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.51</weight_kg>
+      <battery_life_hours>18</battery_life_hours>
+      <noise_level_db>0</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>macOS</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88221</item_id>
+      <locale>en_US</locale>
+      <name>Apple MacBook Air 15 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88221</url>
+      <image_url>https://voltera.example/img/vlt-88221.jpg</image_url>
+      <group_code>GRP-macbook-air-15</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1299.00</price>
+      <original_price>1299.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>40</stock_count>
+      <color>Grey</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.51 kg 15.3" laptop with 16 GB of memory and a 512 GB SSD, powered by the Apple M3. Rated up to 18 hours of battery life.</description>
+      <screen_size>15.3</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Apple M3</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.51</weight_kg>
+      <battery_life_hours>18</battery_life_hours>
+      <noise_level_db>0</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>macOS</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88223</item_id>
+      <locale>en_US</locale>
+      <name>Apple MacBook Air 15 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88223</url>
+      <image_url>https://voltera.example/img/vlt-88223.jpg</image_url>
+      <group_code>GRP-macbook-air-15</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1299.00</price>
+      <original_price>1530.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>26</stock_count>
+      <color>Blue</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.51 kg 15.3" laptop with 16 GB of memory and a 512 GB SSD, powered by the Apple M3. Rated up to 18 hours of battery life.</description>
+      <screen_size>15.3</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Apple M3</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.51</weight_kg>
+      <battery_life_hours>18</battery_life_hours>
+      <noise_level_db>0</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>macOS</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88225</item_id>
+      <locale>en_US</locale>
+      <name>Apple MacBook Pro 14 18GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88225</url>
+      <image_url>https://voltera.example/img/vlt-88225.jpg</image_url>
+      <group_code>GRP-macbook-pro-14</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1999.00</price>
+      <original_price>1999.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>12</stock_count>
+      <color>Grey</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.61 kg 14.2" laptop with 18 GB of memory and a 512 GB SSD, powered by the Apple M3 Pro. Rated up to 17 hours of battery life and measured at 18 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.2</screen_size>
+      <ram_gb>18</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Apple M3 Pro</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.61</weight_kg>
+      <battery_life_hours>17</battery_life_hours>
+      <noise_level_db>18</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>macOS</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88228</item_id>
+      <locale>en_US</locale>
+      <name>Apple MacBook Pro 14 18GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88228</url>
+      <image_url>https://voltera.example/img/vlt-88228.jpg</image_url>
+      <group_code>GRP-macbook-pro-14</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1999.00</price>
+      <original_price>1999.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>14</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.61 kg 14.2" laptop with 18 GB of memory and a 512 GB SSD, powered by the Apple M3 Pro. Rated up to 17 hours of battery life and measured at 18 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.2</screen_size>
+      <ram_gb>18</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Apple M3 Pro</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.61</weight_kg>
+      <battery_life_hours>17</battery_life_hours>
+      <noise_level_db>18</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>macOS</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88230</item_id>
+      <locale>en_US</locale>
+      <name>Lenovo ThinkPad X1 Carbon 16GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88230</url>
+      <image_url>https://voltera.example/img/vlt-88230.jpg</image_url>
+      <group_code>GRP-thinkpad-x1-carbon</group_code>
+      <brand>Lenovo</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1549.00</price>
+      <original_price>1549.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>26</stock_count>
+      <color>Blue</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>A 1.12 kg 14.0" laptop with 16 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-1355U. Rated up to 15 hours of battery life and measured at 24 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-1355U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.12</weight_kg>
+      <battery_life_hours>15</battery_life_hours>
+      <noise_level_db>24</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88231</item_id>
+      <locale>en_US</locale>
+      <name>Lenovo ThinkPad X1 Carbon 16GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88231</url>
+      <image_url>https://voltera.example/img/vlt-88231.jpg</image_url>
+      <group_code>GRP-thinkpad-x1-carbon</group_code>
+      <brand>Lenovo</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1549.00</price>
+      <original_price>1549.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>1</stock_count>
+      <color>Silver</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.12 kg 14.0" laptop with 16 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-1355U. Rated up to 15 hours of battery life and measured at 24 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-1355U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.12</weight_kg>
+      <battery_life_hours>15</battery_life_hours>
+      <noise_level_db>24</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88233</item_id>
+      <locale>en_US</locale>
+      <name>Lenovo ThinkPad E14 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88233</url>
+      <image_url>https://voltera.example/img/vlt-88233.jpg</image_url>
+      <group_code>GRP-thinkpad-e14</group_code>
+      <brand>Lenovo</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>799.00</price>
+      <original_price>799.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>13</stock_count>
+      <color>Black</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.41 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the AMD Ryzen 5 7530U. Rated up to 12 hours of battery life and measured at 28 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>AMD Ryzen 5 7530U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.41</weight_kg>
+      <battery_life_hours>12</battery_life_hours>
+      <noise_level_db>28</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88236</item_id>
+      <locale>en_US</locale>
+      <name>Lenovo ThinkPad E14 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88236</url>
+      <image_url>https://voltera.example/img/vlt-88236.jpg</image_url>
+      <group_code>GRP-thinkpad-e14</group_code>
+      <brand>Lenovo</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>799.00</price>
+      <original_price>799.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>48</stock_count>
+      <color>Silver</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.41 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the AMD Ryzen 5 7530U. Rated up to 12 hours of battery life and measured at 28 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>AMD Ryzen 5 7530U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.41</weight_kg>
+      <battery_life_hours>12</battery_life_hours>
+      <noise_level_db>28</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88238</item_id>
+      <locale>en_US</locale>
+      <name>Lenovo IdeaPad Slim 3 8GB 256GB</name>
+      <url>https://voltera.example/p/vlt-88238</url>
+      <image_url>https://voltera.example/img/vlt-88238.jpg</image_url>
+      <group_code>GRP-ideapad-slim-3</group_code>
+      <brand>Lenovo</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>549.00</price>
+      <original_price>610.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>29</stock_count>
+      <color>Blue</color>
+      <use_case>Everyday</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.62 kg 15.6" laptop with 8 GB of memory and a 256 GB SSD, powered by the Intel Core i3-1305U. Rated up to 10 hours of battery life and 31 dB under load.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>8</ram_gb>
+      <storage_gb>256</storage_gb>
+      <processor>Intel Core i3-1305U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.62</weight_kg>
+      <battery_life_hours>10</battery_life_hours>
+      <noise_level_db>31</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88241</item_id>
+      <locale>en_US</locale>
+      <name>Lenovo IdeaPad Slim 3 8GB 256GB</name>
+      <url>https://voltera.example/p/vlt-88241</url>
+      <image_url>https://voltera.example/img/vlt-88241.jpg</image_url>
+      <group_code>GRP-ideapad-slim-3</group_code>
+      <brand>Lenovo</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>549.00</price>
+      <original_price>645.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>32</stock_count>
+      <color>White</color>
+      <use_case>Everyday</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>A 1.62 kg 15.6" laptop with 8 GB of memory and a 256 GB SSD, powered by the Intel Core i3-1305U. Rated up to 10 hours of battery life and 31 dB under load.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>8</ram_gb>
+      <storage_gb>256</storage_gb>
+      <processor>Intel Core i3-1305U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.62</weight_kg>
+      <battery_life_hours>10</battery_life_hours>
+      <noise_level_db>31</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88244</item_id>
+      <locale>en_US</locale>
+      <name>Lenovo Legion Pro 5 32GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88244</url>
+      <image_url>https://voltera.example/img/vlt-88244.jpg</image_url>
+      <group_code>GRP-legion-pro-5</group_code>
+      <brand>Lenovo</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1799.00</price>
+      <original_price>1799.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>8</stock_count>
+      <color>Black</color>
+      <use_case>Gaming</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>A 2.55 kg 16.0" laptop with 32 GB of memory and a 1024 GB SSD, powered by the AMD Ryzen 7 7745HX. Rated up to 6 hours of battery life and 47 dB under load. Graphics: RTX 4070.</description>
+      <screen_size>16.0</screen_size>
+      <ram_gb>32</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>AMD Ryzen 7 7745HX</processor>
+      <graphics>RTX 4070</graphics>
+      <weight_kg>2.55</weight_kg>
+      <battery_life_hours>6</battery_life_hours>
+      <noise_level_db>47</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88246</item_id>
+      <locale>en_US</locale>
+      <name>Lenovo Legion Pro 5 32GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88246</url>
+      <image_url>https://voltera.example/img/vlt-88246.jpg</image_url>
+      <group_code>GRP-legion-pro-5</group_code>
+      <brand>Lenovo</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1799.00</price>
+      <original_price>1799.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>26</stock_count>
+      <color>Grey</color>
+      <use_case>Gaming</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>A 2.55 kg 16.0" laptop with 32 GB of memory and a 1024 GB SSD, powered by the AMD Ryzen 7 7745HX. Rated up to 6 hours of battery life and 47 dB under load. Graphics: RTX 4070.</description>
+      <screen_size>16.0</screen_size>
+      <ram_gb>32</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>AMD Ryzen 7 7745HX</processor>
+      <graphics>RTX 4070</graphics>
+      <weight_kg>2.55</weight_kg>
+      <battery_life_hours>6</battery_life_hours>
+      <noise_level_db>47</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88248</item_id>
+      <locale>en_US</locale>
+      <name>Lenovo Legion Pro 5 32GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88248</url>
+      <image_url>https://voltera.example/img/vlt-88248.jpg</image_url>
+      <group_code>GRP-legion-pro-5</group_code>
+      <brand>Lenovo</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1799.00</price>
+      <original_price>1799.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>33</stock_count>
+      <color>Blue</color>
+      <use_case>Gaming</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>A 2.55 kg 16.0" laptop with 32 GB of memory and a 1024 GB SSD, powered by the AMD Ryzen 7 7745HX. Rated up to 6 hours of battery life and 47 dB under load. Graphics: RTX 4070.</description>
+      <screen_size>16.0</screen_size>
+      <ram_gb>32</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>AMD Ryzen 7 7745HX</processor>
+      <graphics>RTX 4070</graphics>
+      <weight_kg>2.55</weight_kg>
+      <battery_life_hours>6</battery_life_hours>
+      <noise_level_db>47</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88249</item_id>
+      <locale>en_US</locale>
+      <name>Dell XPS 13 Plus 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88249</url>
+      <image_url>https://voltera.example/img/vlt-88249.jpg</image_url>
+      <group_code>GRP-xps-13-plus</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1249.00</price>
+      <original_price>1249.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>14</stock_count>
+      <color>Silver</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>A 1.24 kg 13.4" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i7-1360P. Rated up to 12 hours of battery life and measured at 26 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.4</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i7-1360P</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.24</weight_kg>
+      <battery_life_hours>12</battery_life_hours>
+      <noise_level_db>26</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88251</item_id>
+      <locale>en_US</locale>
+      <name>Dell XPS 13 Plus 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88251</url>
+      <image_url>https://voltera.example/img/vlt-88251.jpg</image_url>
+      <group_code>GRP-xps-13-plus</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1249.00</price>
+      <original_price>1249.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>5</stock_count>
+      <color>Blue</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.24 kg 13.4" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i7-1360P. Rated up to 12 hours of battery life and measured at 26 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.4</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i7-1360P</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.24</weight_kg>
+      <battery_life_hours>12</battery_life_hours>
+      <noise_level_db>26</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88253</item_id>
+      <locale>en_US</locale>
+      <name>Dell XPS 13 Plus 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88253</url>
+      <image_url>https://voltera.example/img/vlt-88253.jpg</image_url>
+      <group_code>GRP-xps-13-plus</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1249.00</price>
+      <original_price>1249.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>27</stock_count>
+      <color>Black</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.24 kg 13.4" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i7-1360P. Rated up to 12 hours of battery life and measured at 26 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.4</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i7-1360P</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.24</weight_kg>
+      <battery_life_hours>12</battery_life_hours>
+      <noise_level_db>26</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88254</item_id>
+      <locale>en_US</locale>
+      <name>Dell Inspiron 15 8GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88254</url>
+      <image_url>https://voltera.example/img/vlt-88254.jpg</image_url>
+      <group_code>GRP-inspiron-15</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>599.00</price>
+      <original_price>599.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>43</stock_count>
+      <color>Blue</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.65 kg 15.6" laptop with 8 GB of memory and a 512 GB SSD, powered by the Intel Core i5-1334U. Rated up to 9 hours of battery life and 32 dB under load.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>8</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i5-1334U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.65</weight_kg>
+      <battery_life_hours>9</battery_life_hours>
+      <noise_level_db>32</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88256</item_id>
+      <locale>en_US</locale>
+      <name>Dell Inspiron 15 8GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88256</url>
+      <image_url>https://voltera.example/img/vlt-88256.jpg</image_url>
+      <group_code>GRP-inspiron-15</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>599.00</price>
+      <original_price>705.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>18</stock_count>
+      <color>Silver</color>
+      <use_case>Everyday</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.65 kg 15.6" laptop with 8 GB of memory and a 512 GB SSD, powered by the Intel Core i5-1334U. Rated up to 9 hours of battery life and 32 dB under load.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>8</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i5-1334U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.65</weight_kg>
+      <battery_life_hours>9</battery_life_hours>
+      <noise_level_db>32</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88258</item_id>
+      <locale>en_US</locale>
+      <name>Dell Latitude 7440 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88258</url>
+      <image_url>https://voltera.example/img/vlt-88258.jpg</image_url>
+      <group_code>GRP-latitude-7440</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1399.00</price>
+      <original_price>1399.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>3</stock_count>
+      <color>White</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.35 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i5-1345U. Rated up to 14 hours of battery life and measured at 25 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i5-1345U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.35</weight_kg>
+      <battery_life_hours>14</battery_life_hours>
+      <noise_level_db>25</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88259</item_id>
+      <locale>en_US</locale>
+      <name>Dell Latitude 7440 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88259</url>
+      <image_url>https://voltera.example/img/vlt-88259.jpg</image_url>
+      <group_code>GRP-latitude-7440</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1399.00</price>
+      <original_price>1645.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>18</stock_count>
+      <color>Silver</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.35 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i5-1345U. Rated up to 14 hours of battery life and measured at 25 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i5-1345U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.35</weight_kg>
+      <battery_life_hours>14</battery_life_hours>
+      <noise_level_db>25</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88260</item_id>
+      <locale>en_US</locale>
+      <name>HP Spectre x360 14 16GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88260</url>
+      <image_url>https://voltera.example/img/vlt-88260.jpg</image_url>
+      <group_code>GRP-spectre-x360-14</group_code>
+      <brand>HP</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1349.00</price>
+      <original_price>1349.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>26</stock_count>
+      <color>Blue</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.36 kg 13.5" laptop with 16 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-1355U. Rated up to 13 hours of battery life and measured at 24 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.5</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-1355U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.36</weight_kg>
+      <battery_life_hours>13</battery_life_hours>
+      <noise_level_db>24</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88262</item_id>
+      <locale>en_US</locale>
+      <name>HP Spectre x360 14 16GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88262</url>
+      <image_url>https://voltera.example/img/vlt-88262.jpg</image_url>
+      <group_code>GRP-spectre-x360-14</group_code>
+      <brand>HP</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1349.00</price>
+      <original_price>1685.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>52</stock_count>
+      <color>Grey</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>A 1.36 kg 13.5" laptop with 16 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-1355U. Rated up to 13 hours of battery life and measured at 24 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.5</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-1355U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.36</weight_kg>
+      <battery_life_hours>13</battery_life_hours>
+      <noise_level_db>24</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88264</item_id>
+      <locale>en_US</locale>
+      <name>HP Spectre x360 14 16GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88264</url>
+      <image_url>https://voltera.example/img/vlt-88264.jpg</image_url>
+      <group_code>GRP-spectre-x360-14</group_code>
+      <brand>HP</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1349.00</price>
+      <original_price>1349.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>50</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.36 kg 13.5" laptop with 16 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-1355U. Rated up to 13 hours of battery life and measured at 24 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.5</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-1355U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.36</weight_kg>
+      <battery_life_hours>13</battery_life_hours>
+      <noise_level_db>24</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88266</item_id>
+      <locale>en_US</locale>
+      <name>HP Pavilion Aero 13 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88266</url>
+      <image_url>https://voltera.example/img/vlt-88266.jpg</image_url>
+      <group_code>GRP-pavilion-aero-13</group_code>
+      <brand>HP</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>849.00</price>
+      <original_price>849.00</original_price>
+      <currency>USD</currency>
+      <in_stock>0</in_stock>
+      <stock_count>0</stock_count>
+      <color>Black</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 0.97 kg 13.3" laptop with 16 GB of memory and a 512 GB SSD, powered by the AMD Ryzen 5 7535U. Rated up to 11 hours of battery life and measured at 27 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.3</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>AMD Ryzen 5 7535U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>0.97</weight_kg>
+      <battery_life_hours>11</battery_life_hours>
+      <noise_level_db>27</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88268</item_id>
+      <locale>en_US</locale>
+      <name>HP Pavilion Aero 13 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88268</url>
+      <image_url>https://voltera.example/img/vlt-88268.jpg</image_url>
+      <group_code>GRP-pavilion-aero-13</group_code>
+      <brand>HP</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>849.00</price>
+      <original_price>849.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>34</stock_count>
+      <color>Blue</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 0.97 kg 13.3" laptop with 16 GB of memory and a 512 GB SSD, powered by the AMD Ryzen 5 7535U. Rated up to 11 hours of battery life and measured at 27 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.3</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>AMD Ryzen 5 7535U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>0.97</weight_kg>
+      <battery_life_hours>11</battery_life_hours>
+      <noise_level_db>27</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88271</item_id>
+      <locale>en_US</locale>
+      <name>HP EliteBook 840 G10 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88271</url>
+      <image_url>https://voltera.example/img/vlt-88271.jpg</image_url>
+      <group_code>GRP-elitebook-840-g10</group_code>
+      <brand>HP</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1449.00</price>
+      <original_price>1449.00</original_price>
+      <currency>USD</currency>
+      <in_stock>0</in_stock>
+      <stock_count>0</stock_count>
+      <color>Grey</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.36 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i5-1335U. Rated up to 15 hours of battery life and measured at 23 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i5-1335U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.36</weight_kg>
+      <battery_life_hours>15</battery_life_hours>
+      <noise_level_db>23</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88272</item_id>
+      <locale>en_US</locale>
+      <name>HP Omen 16 16GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88272</url>
+      <image_url>https://voltera.example/img/vlt-88272.jpg</image_url>
+      <group_code>GRP-omen-16</group_code>
+      <brand>HP</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1599.00</price>
+      <original_price>1599.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>16</stock_count>
+      <color>White</color>
+      <use_case>Gaming</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 2.38 kg 16.1" laptop with 16 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-13700HX. Rated up to 6 hours of battery life and 46 dB under load. Graphics: RTX 4060.</description>
+      <screen_size>16.1</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-13700HX</processor>
+      <graphics>RTX 4060</graphics>
+      <weight_kg>2.38</weight_kg>
+      <battery_life_hours>6</battery_life_hours>
+      <noise_level_db>46</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88273</item_id>
+      <locale>en_US</locale>
+      <name>Acer Swift Go 14 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88273</url>
+      <image_url>https://voltera.example/img/vlt-88273.jpg</image_url>
+      <group_code>GRP-swift-go-14</group_code>
+      <brand>Acer</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>749.00</price>
+      <original_price>880.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>24</stock_count>
+      <color>Silver</color>
+      <use_case>Everyday</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.25 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i5-1335U. Rated up to 12 hours of battery life and measured at 26 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i5-1335U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.25</weight_kg>
+      <battery_life_hours>12</battery_life_hours>
+      <noise_level_db>26</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88276</item_id>
+      <locale>en_US</locale>
+      <name>Acer Swift Go 14 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88276</url>
+      <image_url>https://voltera.example/img/vlt-88276.jpg</image_url>
+      <group_code>GRP-swift-go-14</group_code>
+      <brand>Acer</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>749.00</price>
+      <original_price>749.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>33</stock_count>
+      <color>Black</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.25 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core i5-1335U. Rated up to 12 hours of battery life and measured at 26 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core i5-1335U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.25</weight_kg>
+      <battery_life_hours>12</battery_life_hours>
+      <noise_level_db>26</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88278</item_id>
+      <locale>en_US</locale>
+      <name>Acer Aspire 5 8GB 256GB</name>
+      <url>https://voltera.example/p/vlt-88278</url>
+      <image_url>https://voltera.example/img/vlt-88278.jpg</image_url>
+      <group_code>GRP-aspire-5</group_code>
+      <brand>Acer</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>529.00</price>
+      <original_price>529.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>37</stock_count>
+      <color>Blue</color>
+      <use_case>Everyday</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.75 kg 15.6" laptop with 8 GB of memory and a 256 GB SSD, powered by the AMD Ryzen 5 7520U. Rated up to 8 hours of battery life and 33 dB under load.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>8</ram_gb>
+      <storage_gb>256</storage_gb>
+      <processor>AMD Ryzen 5 7520U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.75</weight_kg>
+      <battery_life_hours>8</battery_life_hours>
+      <noise_level_db>33</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88281</item_id>
+      <locale>en_US</locale>
+      <name>Acer Aspire 5 8GB 256GB</name>
+      <url>https://voltera.example/p/vlt-88281</url>
+      <image_url>https://voltera.example/img/vlt-88281.jpg</image_url>
+      <group_code>GRP-aspire-5</group_code>
+      <brand>Acer</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>529.00</price>
+      <original_price>620.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>13</stock_count>
+      <color>Black</color>
+      <use_case>Everyday</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.75 kg 15.6" laptop with 8 GB of memory and a 256 GB SSD, powered by the AMD Ryzen 5 7520U. Rated up to 8 hours of battery life and 33 dB under load.</description>
+      <screen_size>15.6</screen_size>
+      <ram_gb>8</ram_gb>
+      <storage_gb>256</storage_gb>
+      <processor>AMD Ryzen 5 7520U</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.75</weight_kg>
+      <battery_life_hours>8</battery_life_hours>
+      <noise_level_db>33</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88282</item_id>
+      <locale>en_US</locale>
+      <name>Acer Predator Helios Neo 16 16GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88282</url>
+      <image_url>https://voltera.example/img/vlt-88282.jpg</image_url>
+      <group_code>GRP-predator-helios-neo-16</group_code>
+      <brand>Acer</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1449.00</price>
+      <original_price>1449.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>10</stock_count>
+      <color>Blue</color>
+      <use_case>Gaming</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 2.60 kg 16.0" laptop with 16 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-13650HX. Rated up to 5 hours of battery life and 49 dB under load. Graphics: RTX 4060.</description>
+      <screen_size>16.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-13650HX</processor>
+      <graphics>RTX 4060</graphics>
+      <weight_kg>2.6</weight_kg>
+      <battery_life_hours>5</battery_life_hours>
+      <noise_level_db>49</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88285</item_id>
+      <locale>en_US</locale>
+      <name>Acer Predator Helios Neo 16 16GB 1024GB</name>
+      <url>https://voltera.example/p/vlt-88285</url>
+      <image_url>https://voltera.example/img/vlt-88285.jpg</image_url>
+      <group_code>GRP-predator-helios-neo-16</group_code>
+      <brand>Acer</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1449.00</price>
+      <original_price>1705.00</original_price>
+      <currency>USD</currency>
+      <in_stock>0</in_stock>
+      <stock_count>0</stock_count>
+      <color>White</color>
+      <use_case>Gaming</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 2.60 kg 16.0" laptop with 16 GB of memory and a 1024 GB SSD, powered by the Intel Core i7-13650HX. Rated up to 5 hours of battery life and 49 dB under load. Graphics: RTX 4060.</description>
+      <screen_size>16.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>1024</storage_gb>
+      <processor>Intel Core i7-13650HX</processor>
+      <graphics>RTX 4060</graphics>
+      <weight_kg>2.6</weight_kg>
+      <battery_life_hours>5</battery_life_hours>
+      <noise_level_db>49</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88286</item_id>
+      <locale>en_US</locale>
+      <name>Samsung Galaxy Book4 Pro 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88286</url>
+      <image_url>https://voltera.example/img/vlt-88286.jpg</image_url>
+      <group_code>GRP-galaxy-book4-pro</group_code>
+      <brand>Samsung</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1499.00</price>
+      <original_price>1499.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>36</stock_count>
+      <color>White</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.16 kg 14.0" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core Ultra 7. Rated up to 16 hours of battery life and measured at 21 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>14.0</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core Ultra 7</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.16</weight_kg>
+      <battery_life_hours>16</battery_life_hours>
+      <noise_level_db>21</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88288</item_id>
+      <locale>en_US</locale>
+      <name>Microsoft Surface Laptop 6 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88288</url>
+      <image_url>https://voltera.example/img/vlt-88288.jpg</image_url>
+      <group_code>GRP-surface-laptop-6</group_code>
+      <brand>Microsoft</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1299.00</price>
+      <original_price>1299.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>60</stock_count>
+      <color>White</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.33 kg 13.5" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core Ultra 5. Rated up to 14 hours of battery life and measured at 22 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.5</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core Ultra 5</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.33</weight_kg>
+      <battery_life_hours>14</battery_life_hours>
+      <noise_level_db>22</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88290</item_id>
+      <locale>en_US</locale>
+      <name>Microsoft Surface Laptop 6 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88290</url>
+      <image_url>https://voltera.example/img/vlt-88290.jpg</image_url>
+      <group_code>GRP-surface-laptop-6</group_code>
+      <brand>Microsoft</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1299.00</price>
+      <original_price>1299.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>1</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.33 kg 13.5" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core Ultra 5. Rated up to 14 hours of battery life and measured at 22 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.5</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core Ultra 5</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.33</weight_kg>
+      <battery_life_hours>14</battery_life_hours>
+      <noise_level_db>22</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88291</item_id>
+      <locale>en_US</locale>
+      <name>Microsoft Surface Laptop 6 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88291</url>
+      <image_url>https://voltera.example/img/vlt-88291.jpg</image_url>
+      <group_code>GRP-surface-laptop-6</group_code>
+      <brand>Microsoft</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1299.00</price>
+      <original_price>1299.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>17</stock_count>
+      <color>Silver</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.33 kg 13.5" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core Ultra 5. Rated up to 14 hours of battery life and measured at 22 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.5</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core Ultra 5</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.33</weight_kg>
+      <battery_life_hours>14</battery_life_hours>
+      <noise_level_db>22</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88293</item_id>
+      <locale>en_US</locale>
+      <name>LG OLED evo C4 55"</name>
+      <url>https://voltera.example/p/vlt-88293</url>
+      <image_url>https://voltera.example/img/vlt-88293.jpg</image_url>
+      <group_code>GRP-vlt-88293</group_code>
+      <brand>LG</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>1499.00</price>
+      <original_price>1875.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>27</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 55-inch OLED television with 4K resolution and a 120 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>55.0</screen_size>
+      <panel_type>OLED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>120</refresh_rate_hz>
+      <energy_class>E</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88294</item_id>
+      <locale>en_US</locale>
+      <name>LG OLED evo C4 65"</name>
+      <url>https://voltera.example/p/vlt-88294</url>
+      <image_url>https://voltera.example/img/vlt-88294.jpg</image_url>
+      <group_code>GRP-vlt-88294</group_code>
+      <brand>LG</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>1999.00</price>
+      <original_price>2220.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>35</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 65-inch OLED television with 4K resolution and a 120 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>65.0</screen_size>
+      <panel_type>OLED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>120</refresh_rate_hz>
+      <energy_class>G</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88295</item_id>
+      <locale>en_US</locale>
+      <name>LG QNED80 50"</name>
+      <url>https://voltera.example/p/vlt-88295</url>
+      <image_url>https://voltera.example/img/vlt-88295.jpg</image_url>
+      <group_code>GRP-vlt-88295</group_code>
+      <brand>LG</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>699.00</price>
+      <original_price>820.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>30</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>A 50-inch QNED television with 4K resolution and a 60 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>50.0</screen_size>
+      <panel_type>QNED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>60</refresh_rate_hz>
+      <energy_class>G</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88298</item_id>
+      <locale>en_US</locale>
+      <name>Samsung The Frame 55"</name>
+      <url>https://voltera.example/p/vlt-88298</url>
+      <image_url>https://voltera.example/img/vlt-88298.jpg</image_url>
+      <group_code>GRP-vlt-88298</group_code>
+      <brand>Samsung</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>1299.00</price>
+      <original_price>1530.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>49</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 55-inch QLED television with 4K resolution and a 120 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>55.0</screen_size>
+      <panel_type>QLED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>120</refresh_rate_hz>
+      <energy_class>E</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88299</item_id>
+      <locale>en_US</locale>
+      <name>Samsung QLED Q60D 65"</name>
+      <url>https://voltera.example/p/vlt-88299</url>
+      <image_url>https://voltera.example/img/vlt-88299.jpg</image_url>
+      <group_code>GRP-vlt-88299</group_code>
+      <brand>Samsung</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>899.00</price>
+      <original_price>899.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>1</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 65-inch QLED television with 4K resolution and a 60 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>65.0</screen_size>
+      <panel_type>QLED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>60</refresh_rate_hz>
+      <energy_class>E</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88301</item_id>
+      <locale>en_US</locale>
+      <name>Samsung Crystal UHD DU7100 43"</name>
+      <url>https://voltera.example/p/vlt-88301</url>
+      <image_url>https://voltera.example/img/vlt-88301.jpg</image_url>
+      <group_code>GRP-vlt-88301</group_code>
+      <brand>Samsung</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>349.00</price>
+      <original_price>435.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>15</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 43-inch LED television with 4K resolution and a 60 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>43.0</screen_size>
+      <panel_type>LED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>60</refresh_rate_hz>
+      <energy_class>G</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88303</item_id>
+      <locale>en_US</locale>
+      <name>Sony Bravia 8 55"</name>
+      <url>https://voltera.example/p/vlt-88303</url>
+      <image_url>https://voltera.example/img/vlt-88303.jpg</image_url>
+      <group_code>GRP-vlt-88303</group_code>
+      <brand>Sony</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>1699.00</price>
+      <original_price>1699.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>40</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 55-inch OLED television with 4K resolution and a 120 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>55.0</screen_size>
+      <panel_type>OLED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>120</refresh_rate_hz>
+      <energy_class>G</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88306</item_id>
+      <locale>en_US</locale>
+      <name>Sony Bravia 3 50"</name>
+      <url>https://voltera.example/p/vlt-88306</url>
+      <image_url>https://voltera.example/img/vlt-88306.jpg</image_url>
+      <group_code>GRP-vlt-88306</group_code>
+      <brand>Sony</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>649.00</price>
+      <original_price>810.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>1</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 50-inch LED television with 4K resolution and a 60 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>50.0</screen_size>
+      <panel_type>LED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>60</refresh_rate_hz>
+      <energy_class>E</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88308</item_id>
+      <locale>en_US</locale>
+      <name>TCL C805 55"</name>
+      <url>https://voltera.example/p/vlt-88308</url>
+      <image_url>https://voltera.example/img/vlt-88308.jpg</image_url>
+      <group_code>GRP-vlt-88308</group_code>
+      <brand>TCL</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>549.00</price>
+      <original_price>685.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>18</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 55-inch QLED television with 4K resolution and a 144 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>55.0</screen_size>
+      <panel_type>QLED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>144</refresh_rate_hz>
+      <energy_class>G</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88309</item_id>
+      <locale>en_US</locale>
+      <name>Hisense U7N 65"</name>
+      <url>https://voltera.example/p/vlt-88309</url>
+      <image_url>https://voltera.example/img/vlt-88309.jpg</image_url>
+      <group_code>GRP-vlt-88309</group_code>
+      <brand>Hisense</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>799.00</price>
+      <original_price>799.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>21</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 65-inch ULED television with 4K resolution and a 144 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>65.0</screen_size>
+      <panel_type>ULED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>144</refresh_rate_hz>
+      <energy_class>E</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88311</item_id>
+      <locale>en_US</locale>
+      <name>TCL Roku Select 43"</name>
+      <url>https://voltera.example/p/vlt-88311</url>
+      <image_url>https://voltera.example/img/vlt-88311.jpg</image_url>
+      <group_code>GRP-vlt-88311</group_code>
+      <brand>TCL</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>249.00</price>
+      <original_price>310.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>20</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 43-inch LED television with 4K resolution and a 60 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>43.0</screen_size>
+      <panel_type>LED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>60</refresh_rate_hz>
+      <energy_class>E</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88313</item_id>
+      <locale>en_US</locale>
+      <name>Sony A85L 65"</name>
+      <url>https://voltera.example/p/vlt-88313</url>
+      <image_url>https://voltera.example/img/vlt-88313.jpg</image_url>
+      <group_code>GRP-vlt-88313</group_code>
+      <brand>Sony</brand>
+      <category>Electronics &gt; TV &amp; Video &gt; Televisions</category>
+      <product_type>Television</product_type>
+      <price>2299.00</price>
+      <original_price>2299.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>36</stock_count>
+      <color>Black</color>
+      <use_case>Living room</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 65-inch OLED television with 4K resolution and a 120 Hz panel. Supports HDR and includes three HDMI inputs.</description>
+      <screen_size>65.0</screen_size>
+      <panel_type>OLED</panel_type>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>120</refresh_rate_hz>
+      <energy_class>F</energy_class>
+      <warranty_months>24</warranty_months>
+      <hdmi_ports>3</hdmi_ports>
+    </item>
+    <item>
+      <item_id>VLT-88314</item_id>
+      <locale>en_US</locale>
+      <name>Sony WH-1000XM5 Headphones</name>
+      <url>https://voltera.example/p/vlt-88314</url>
+      <image_url>https://voltera.example/img/vlt-88314.jpg</image_url>
+      <group_code>GRP-wh-1000xm5-headphones</group_code>
+      <brand>Sony</brand>
+      <category>Electronics &gt; Audio &gt; Headphones</category>
+      <product_type>Over-ear</product_type>
+      <price>349.00</price>
+      <original_price>349.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>16</stock_count>
+      <color>Black</color>
+      <use_case>Travel</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Over-ear audio from Sony. Active noise cancelling with up to 30 hours of battery life.</description>
+      <form_factor>Over-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>30</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88317</item_id>
+      <locale>en_US</locale>
+      <name>Sony WH-1000XM5 Headphones</name>
+      <url>https://voltera.example/p/vlt-88317</url>
+      <image_url>https://voltera.example/img/vlt-88317.jpg</image_url>
+      <group_code>GRP-wh-1000xm5-headphones</group_code>
+      <brand>Sony</brand>
+      <category>Electronics &gt; Audio &gt; Headphones</category>
+      <product_type>Over-ear</product_type>
+      <price>349.00</price>
+      <original_price>349.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>31</stock_count>
+      <color>White</color>
+      <use_case>Travel</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Over-ear audio from Sony. Active noise cancelling with up to 30 hours of battery life.</description>
+      <form_factor>Over-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>30</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88320</item_id>
+      <locale>en_US</locale>
+      <name>Sony WF-1000XM5 Earbuds</name>
+      <url>https://voltera.example/p/vlt-88320</url>
+      <image_url>https://voltera.example/img/vlt-88320.jpg</image_url>
+      <group_code>GRP-wf-1000xm5-earbuds</group_code>
+      <brand>Sony</brand>
+      <category>Electronics &gt; Audio &gt; Earbuds</category>
+      <product_type>In-ear</product_type>
+      <price>279.00</price>
+      <original_price>279.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>57</stock_count>
+      <color>Silver</color>
+      <use_case>Travel</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>In-ear audio from Sony. Active noise cancelling with up to 8 hours of battery life.</description>
+      <form_factor>In-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>8</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88321</item_id>
+      <locale>en_US</locale>
+      <name>Sony WF-1000XM5 Earbuds</name>
+      <url>https://voltera.example/p/vlt-88321</url>
+      <image_url>https://voltera.example/img/vlt-88321.jpg</image_url>
+      <group_code>GRP-wf-1000xm5-earbuds</group_code>
+      <brand>Sony</brand>
+      <category>Electronics &gt; Audio &gt; Earbuds</category>
+      <product_type>In-ear</product_type>
+      <price>279.00</price>
+      <original_price>279.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>7</stock_count>
+      <color>Black</color>
+      <use_case>Travel</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>In-ear audio from Sony. Active noise cancelling with up to 8 hours of battery life.</description>
+      <form_factor>In-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>8</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88323</item_id>
+      <locale>en_US</locale>
+      <name>Bose QuietComfort Ultra</name>
+      <url>https://voltera.example/p/vlt-88323</url>
+      <image_url>https://voltera.example/img/vlt-88323.jpg</image_url>
+      <group_code>GRP-vlt-88323</group_code>
+      <brand>Bose</brand>
+      <category>Electronics &gt; Audio &gt; Headphones</category>
+      <product_type>Over-ear</product_type>
+      <price>429.00</price>
+      <original_price>429.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>1</stock_count>
+      <color>Blue</color>
+      <use_case>Travel</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Over-ear audio from Bose. Active noise cancelling with up to 24 hours of battery life.</description>
+      <form_factor>Over-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>24</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88325</item_id>
+      <locale>en_US</locale>
+      <name>Bose SoundLink Flex Speaker</name>
+      <url>https://voltera.example/p/vlt-88325</url>
+      <image_url>https://voltera.example/img/vlt-88325.jpg</image_url>
+      <group_code>GRP-vlt-88325</group_code>
+      <brand>Bose</brand>
+      <category>Electronics &gt; Audio &gt; Speakers</category>
+      <product_type>Speaker</product_type>
+      <price>149.00</price>
+      <original_price>149.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>48</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Speaker audio from Bose. Up to 12 hours of playback.</description>
+      <form_factor>Speaker</form_factor>
+      <noise_cancelling>False</noise_cancelling>
+      <battery_life_hours>12</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88326</item_id>
+      <locale>en_US</locale>
+      <name>Apple AirPods Pro 2</name>
+      <url>https://voltera.example/p/vlt-88326</url>
+      <image_url>https://voltera.example/img/vlt-88326.jpg</image_url>
+      <group_code>GRP-airpods-pro-2</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Audio &gt; Earbuds</category>
+      <product_type>In-ear</product_type>
+      <price>249.00</price>
+      <original_price>249.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>39</stock_count>
+      <color>White</color>
+      <use_case>Travel</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>In-ear audio from Apple. Active noise cancelling with up to 6 hours of battery life.</description>
+      <form_factor>In-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>6</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88328</item_id>
+      <locale>en_US</locale>
+      <name>Apple AirPods Pro 2</name>
+      <url>https://voltera.example/p/vlt-88328</url>
+      <image_url>https://voltera.example/img/vlt-88328.jpg</image_url>
+      <group_code>GRP-airpods-pro-2</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Audio &gt; Earbuds</category>
+      <product_type>In-ear</product_type>
+      <price>249.00</price>
+      <original_price>249.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>2</stock_count>
+      <color>Silver</color>
+      <use_case>Travel</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>In-ear audio from Apple. Active noise cancelling with up to 6 hours of battery life.</description>
+      <form_factor>In-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>6</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88329</item_id>
+      <locale>en_US</locale>
+      <name>Apple Beats Studio Pro</name>
+      <url>https://voltera.example/p/vlt-88329</url>
+      <image_url>https://voltera.example/img/vlt-88329.jpg</image_url>
+      <group_code>GRP-beats-studio-pro</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Audio &gt; Headphones</category>
+      <product_type>Over-ear</product_type>
+      <price>349.00</price>
+      <original_price>390.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>9</stock_count>
+      <color>Black</color>
+      <use_case>Travel</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Over-ear audio from Apple. Active noise cancelling with up to 40 hours of battery life.</description>
+      <form_factor>Over-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>40</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88330</item_id>
+      <locale>en_US</locale>
+      <name>Apple Beats Studio Pro</name>
+      <url>https://voltera.example/p/vlt-88330</url>
+      <image_url>https://voltera.example/img/vlt-88330.jpg</image_url>
+      <group_code>GRP-beats-studio-pro</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Audio &gt; Headphones</category>
+      <product_type>Over-ear</product_type>
+      <price>349.00</price>
+      <original_price>390.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>18</stock_count>
+      <color>Blue</color>
+      <use_case>Travel</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Over-ear audio from Apple. Active noise cancelling with up to 40 hours of battery life.</description>
+      <form_factor>Over-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>40</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88333</item_id>
+      <locale>en_US</locale>
+      <name>Sonos Sonos Era 100</name>
+      <url>https://voltera.example/p/vlt-88333</url>
+      <image_url>https://voltera.example/img/vlt-88333.jpg</image_url>
+      <group_code>GRP-vlt-88333</group_code>
+      <brand>Sonos</brand>
+      <category>Electronics &gt; Audio &gt; Speakers</category>
+      <product_type>Speaker</product_type>
+      <price>249.00</price>
+      <original_price>275.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>35</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Speaker audio from Sonos. Mains powered.</description>
+      <form_factor>Speaker</form_factor>
+      <noise_cancelling>False</noise_cancelling>
+      <battery_life_hours>0</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88336</item_id>
+      <locale>en_US</locale>
+      <name>Sonos Sonos Arc Soundbar</name>
+      <url>https://voltera.example/p/vlt-88336</url>
+      <image_url>https://voltera.example/img/vlt-88336.jpg</image_url>
+      <group_code>GRP-vlt-88336</group_code>
+      <brand>Sonos</brand>
+      <category>Electronics &gt; Audio &gt; Soundbars</category>
+      <product_type>Soundbar</product_type>
+      <price>999.00</price>
+      <original_price>999.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>55</stock_count>
+      <color>Blue</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Soundbar audio from Sonos. Mains powered.</description>
+      <form_factor>Soundbar</form_factor>
+      <noise_cancelling>False</noise_cancelling>
+      <battery_life_hours>0</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88339</item_id>
+      <locale>en_US</locale>
+      <name>Sennheiser HD 660S2 Headphones</name>
+      <url>https://voltera.example/p/vlt-88339</url>
+      <image_url>https://voltera.example/img/vlt-88339.jpg</image_url>
+      <group_code>GRP-vlt-88339</group_code>
+      <brand>Sennheiser</brand>
+      <category>Electronics &gt; Audio &gt; Headphones</category>
+      <product_type>Over-ear</product_type>
+      <price>599.00</price>
+      <original_price>599.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>41</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Over-ear audio from Sennheiser. Mains powered.</description>
+      <form_factor>Over-ear</form_factor>
+      <noise_cancelling>False</noise_cancelling>
+      <battery_life_hours>0</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88342</item_id>
+      <locale>en_US</locale>
+      <name>Sennheiser Momentum 4 Wireless</name>
+      <url>https://voltera.example/p/vlt-88342</url>
+      <image_url>https://voltera.example/img/vlt-88342.jpg</image_url>
+      <group_code>GRP-momentum-4-wireless</group_code>
+      <brand>Sennheiser</brand>
+      <category>Electronics &gt; Audio &gt; Headphones</category>
+      <product_type>Over-ear</product_type>
+      <price>329.00</price>
+      <original_price>329.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>32</stock_count>
+      <color>White</color>
+      <use_case>Travel</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Over-ear audio from Sennheiser. Active noise cancelling with up to 60 hours of battery life.</description>
+      <form_factor>Over-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>60</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88343</item_id>
+      <locale>en_US</locale>
+      <name>Sennheiser Momentum 4 Wireless</name>
+      <url>https://voltera.example/p/vlt-88343</url>
+      <image_url>https://voltera.example/img/vlt-88343.jpg</image_url>
+      <group_code>GRP-momentum-4-wireless</group_code>
+      <brand>Sennheiser</brand>
+      <category>Electronics &gt; Audio &gt; Headphones</category>
+      <product_type>Over-ear</product_type>
+      <price>329.00</price>
+      <original_price>385.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>35</stock_count>
+      <color>Black</color>
+      <use_case>Travel</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Over-ear audio from Sennheiser. Active noise cancelling with up to 60 hours of battery life.</description>
+      <form_factor>Over-ear</form_factor>
+      <noise_cancelling>True</noise_cancelling>
+      <battery_life_hours>60</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88345</item_id>
+      <locale>en_US</locale>
+      <name>JBL JBL Charge 5</name>
+      <url>https://voltera.example/p/vlt-88345</url>
+      <image_url>https://voltera.example/img/vlt-88345.jpg</image_url>
+      <group_code>GRP-vlt-88345</group_code>
+      <brand>JBL</brand>
+      <category>Electronics &gt; Audio &gt; Speakers</category>
+      <product_type>Speaker</product_type>
+      <price>179.00</price>
+      <original_price>179.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>8</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Speaker audio from JBL. Up to 20 hours of playback.</description>
+      <form_factor>Speaker</form_factor>
+      <noise_cancelling>False</noise_cancelling>
+      <battery_life_hours>20</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88348</item_id>
+      <locale>en_US</locale>
+      <name>JBL Bar 1000 Soundbar</name>
+      <url>https://voltera.example/p/vlt-88348</url>
+      <image_url>https://voltera.example/img/vlt-88348.jpg</image_url>
+      <group_code>GRP-vlt-88348</group_code>
+      <brand>JBL</brand>
+      <category>Electronics &gt; Audio &gt; Soundbars</category>
+      <product_type>Soundbar</product_type>
+      <price>899.00</price>
+      <original_price>1000.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>52</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Soundbar audio from JBL. Mains powered.</description>
+      <form_factor>Soundbar</form_factor>
+      <noise_cancelling>False</noise_cancelling>
+      <battery_life_hours>0</battery_life_hours>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth 5.3</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88350</item_id>
+      <locale>en_US</locale>
+      <name>Amazon Echo Dot (5th Gen)</name>
+      <url>https://voltera.example/p/vlt-88350</url>
+      <image_url>https://voltera.example/img/vlt-88350.jpg</image_url>
+      <group_code>GRP-vlt-88350</group_code>
+      <brand>Amazon</brand>
+      <category>Electronics &gt; Smart Home &gt; Speaker</category>
+      <product_type>Speaker</product_type>
+      <price>59.00</price>
+      <original_price>59.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>34</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Speaker device for the connected home. Works with the Amazon app and common voice assistants.</description>
+      <device_type>Speaker</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88353</item_id>
+      <locale>en_US</locale>
+      <name>Amazon Echo Show 8</name>
+      <url>https://voltera.example/p/vlt-88353</url>
+      <image_url>https://voltera.example/img/vlt-88353.jpg</image_url>
+      <group_code>GRP-vlt-88353</group_code>
+      <brand>Amazon</brand>
+      <category>Electronics &gt; Smart Home &gt; Display</category>
+      <product_type>Display</product_type>
+      <price>149.00</price>
+      <original_price>149.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>2</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Display device for the connected home. Works with the Amazon app and common voice assistants.</description>
+      <device_type>Display</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88354</item_id>
+      <locale>en_US</locale>
+      <name>Google Nest Hub (2nd Gen)</name>
+      <url>https://voltera.example/p/vlt-88354</url>
+      <image_url>https://voltera.example/img/vlt-88354.jpg</image_url>
+      <group_code>GRP-vlt-88354</group_code>
+      <brand>Google</brand>
+      <category>Electronics &gt; Smart Home &gt; Display</category>
+      <product_type>Display</product_type>
+      <price>99.00</price>
+      <original_price>110.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>35</stock_count>
+      <color>Grey</color>
+      <use_case>Home</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Display device for the connected home. Works with the Google app and common voice assistants.</description>
+      <device_type>Display</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88356</item_id>
+      <locale>en_US</locale>
+      <name>Google Nest Thermostat</name>
+      <url>https://voltera.example/p/vlt-88356</url>
+      <image_url>https://voltera.example/img/vlt-88356.jpg</image_url>
+      <group_code>GRP-vlt-88356</group_code>
+      <brand>Google</brand>
+      <category>Electronics &gt; Smart Home &gt; Climate</category>
+      <product_type>Climate</product_type>
+      <price>129.00</price>
+      <original_price>129.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>37</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Climate device for the connected home. Works with the Google app and common voice assistants.</description>
+      <device_type>Climate</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88358</item_id>
+      <locale>en_US</locale>
+      <name>Google Nest Cam (Indoor)</name>
+      <url>https://voltera.example/p/vlt-88358</url>
+      <image_url>https://voltera.example/img/vlt-88358.jpg</image_url>
+      <group_code>GRP-vlt-88358</group_code>
+      <brand>Google</brand>
+      <category>Electronics &gt; Smart Home &gt; Camera</category>
+      <product_type>Camera</product_type>
+      <price>99.00</price>
+      <original_price>99.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>23</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Camera device for the connected home. Works with the Google app and common voice assistants.</description>
+      <device_type>Camera</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88360</item_id>
+      <locale>en_US</locale>
+      <name>Philips Hue White &amp; Colour Starter</name>
+      <url>https://voltera.example/p/vlt-88360</url>
+      <image_url>https://voltera.example/img/vlt-88360.jpg</image_url>
+      <group_code>GRP-vlt-88360</group_code>
+      <brand>Philips</brand>
+      <category>Electronics &gt; Smart Home &gt; Lighting</category>
+      <product_type>Lighting</product_type>
+      <price>189.00</price>
+      <original_price>189.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>32</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Lighting device for the connected home. Works with the Philips app and common voice assistants.</description>
+      <device_type>Lighting</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88362</item_id>
+      <locale>en_US</locale>
+      <name>Philips Hue Play Light Bar</name>
+      <url>https://voltera.example/p/vlt-88362</url>
+      <image_url>https://voltera.example/img/vlt-88362.jpg</image_url>
+      <group_code>GRP-vlt-88362</group_code>
+      <brand>Philips</brand>
+      <category>Electronics &gt; Smart Home &gt; Lighting</category>
+      <product_type>Lighting</product_type>
+      <price>139.00</price>
+      <original_price>139.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>3</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Lighting device for the connected home. Works with the Philips app and common voice assistants.</description>
+      <device_type>Lighting</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88364</item_id>
+      <locale>en_US</locale>
+      <name>Ring Ring Video Doorbell 4</name>
+      <url>https://voltera.example/p/vlt-88364</url>
+      <image_url>https://voltera.example/img/vlt-88364.jpg</image_url>
+      <group_code>GRP-vlt-88364</group_code>
+      <brand>Ring</brand>
+      <category>Electronics &gt; Smart Home &gt; Camera</category>
+      <product_type>Camera</product_type>
+      <price>199.00</price>
+      <original_price>235.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>2</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Camera device for the connected home. Works with the Ring app and common voice assistants.</description>
+      <device_type>Camera</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88367</item_id>
+      <locale>en_US</locale>
+      <name>Ring Ring Indoor Cam</name>
+      <url>https://voltera.example/p/vlt-88367</url>
+      <image_url>https://voltera.example/img/vlt-88367.jpg</image_url>
+      <group_code>GRP-vlt-88367</group_code>
+      <brand>Ring</brand>
+      <category>Electronics &gt; Smart Home &gt; Camera</category>
+      <product_type>Camera</product_type>
+      <price>69.00</price>
+      <original_price>69.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>32</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Camera device for the connected home. Works with the Ring app and common voice assistants.</description>
+      <device_type>Camera</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88369</item_id>
+      <locale>en_US</locale>
+      <name>TP-Link Tapo C210 Camera</name>
+      <url>https://voltera.example/p/vlt-88369</url>
+      <image_url>https://voltera.example/img/vlt-88369.jpg</image_url>
+      <group_code>GRP-vlt-88369</group_code>
+      <brand>TP-Link</brand>
+      <category>Electronics &gt; Smart Home &gt; Camera</category>
+      <product_type>Camera</product_type>
+      <price>39.00</price>
+      <original_price>39.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>57</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Camera device for the connected home. Works with the TP-Link app and common voice assistants.</description>
+      <device_type>Camera</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88371</item_id>
+      <locale>en_US</locale>
+      <name>TP-Link Smart Plug Mini</name>
+      <url>https://voltera.example/p/vlt-88371</url>
+      <image_url>https://voltera.example/img/vlt-88371.jpg</image_url>
+      <group_code>GRP-vlt-88371</group_code>
+      <brand>TP-Link</brand>
+      <category>Electronics &gt; Smart Home &gt; Power</category>
+      <product_type>Power</product_type>
+      <price>24.00</price>
+      <original_price>25.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>49</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Power device for the connected home. Works with the TP-Link app and common voice assistants.</description>
+      <device_type>Power</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88373</item_id>
+      <locale>en_US</locale>
+      <name>Aqara Aqara Hub M2</name>
+      <url>https://voltera.example/p/vlt-88373</url>
+      <image_url>https://voltera.example/img/vlt-88373.jpg</image_url>
+      <group_code>GRP-vlt-88373</group_code>
+      <brand>Aqara</brand>
+      <category>Electronics &gt; Smart Home &gt; Hub</category>
+      <product_type>Hub</product_type>
+      <price>99.00</price>
+      <original_price>99.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>59</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Hub device for the connected home. Works with the Aqara app and common voice assistants.</description>
+      <device_type>Hub</device_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Wi-Fi</connectivity>
+      <voice_assistant>Alexa, Google Assistant</voice_assistant>
+    </item>
+    <item>
+      <item_id>VLT-88375</item_id>
+      <locale>en_US</locale>
+      <name>Bosch Series 6 Washing Machine 9kg</name>
+      <url>https://voltera.example/p/vlt-88375</url>
+      <image_url>https://voltera.example/img/vlt-88375.jpg</image_url>
+      <group_code>GRP-vlt-88375</group_code>
+      <brand>Bosch</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Washing machine</category>
+      <product_type>Washing machine</product_type>
+      <price>749.00</price>
+      <original_price>749.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>7</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Washing machine from Bosch, measured at 52 dB in normal operation.</description>
+      <appliance_type>Washing machine</appliance_type>
+      <noise_level_db>52</noise_level_db>
+      <energy_class>C</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88377</item_id>
+      <locale>en_US</locale>
+      <name>Bosch Series 4 Washing Machine 8kg</name>
+      <url>https://voltera.example/p/vlt-88377</url>
+      <image_url>https://voltera.example/img/vlt-88377.jpg</image_url>
+      <group_code>GRP-vlt-88377</group_code>
+      <brand>Bosch</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Washing machine</category>
+      <product_type>Washing machine</product_type>
+      <price>549.00</price>
+      <original_price>645.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>24</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Washing machine from Bosch, measured at 55 dB in normal operation.</description>
+      <appliance_type>Washing machine</appliance_type>
+      <noise_level_db>55</noise_level_db>
+      <energy_class>D</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88380</item_id>
+      <locale>en_US</locale>
+      <name>Bosch Series 8 Dishwasher</name>
+      <url>https://voltera.example/p/vlt-88380</url>
+      <image_url>https://voltera.example/img/vlt-88380.jpg</image_url>
+      <group_code>GRP-vlt-88380</group_code>
+      <brand>Bosch</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Dishwasher</category>
+      <product_type>Dishwasher</product_type>
+      <price>899.00</price>
+      <original_price>899.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>39</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Dishwasher from Bosch, measured at 42 dB in normal operation.</description>
+      <appliance_type>Dishwasher</appliance_type>
+      <noise_level_db>42</noise_level_db>
+      <energy_class>D</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88382</item_id>
+      <locale>en_US</locale>
+      <name>Bosch EcoSilence Dishwasher</name>
+      <url>https://voltera.example/p/vlt-88382</url>
+      <image_url>https://voltera.example/img/vlt-88382.jpg</image_url>
+      <group_code>GRP-vlt-88382</group_code>
+      <brand>Bosch</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Dishwasher</category>
+      <product_type>Dishwasher</product_type>
+      <price>649.00</price>
+      <original_price>765.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>52</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Dishwasher from Bosch, measured at 44 dB in normal operation.</description>
+      <appliance_type>Dishwasher</appliance_type>
+      <noise_level_db>44</noise_level_db>
+      <energy_class>D</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88385</item_id>
+      <locale>en_US</locale>
+      <name>LG F4V5 Washing Machine 10kg</name>
+      <url>https://voltera.example/p/vlt-88385</url>
+      <image_url>https://voltera.example/img/vlt-88385.jpg</image_url>
+      <group_code>GRP-vlt-88385</group_code>
+      <brand>LG</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Washing machine</category>
+      <product_type>Washing machine</product_type>
+      <price>849.00</price>
+      <original_price>849.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>22</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Washing machine from LG, measured at 51 dB in normal operation.</description>
+      <appliance_type>Washing machine</appliance_type>
+      <noise_level_db>51</noise_level_db>
+      <energy_class>B</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88386</item_id>
+      <locale>en_US</locale>
+      <name>LG Dual Inverter Microwave</name>
+      <url>https://voltera.example/p/vlt-88386</url>
+      <image_url>https://voltera.example/img/vlt-88386.jpg</image_url>
+      <group_code>GRP-vlt-88386</group_code>
+      <brand>LG</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Microwave</category>
+      <product_type>Microwave</product_type>
+      <price>229.00</price>
+      <original_price>229.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>39</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Microwave from LG, measured at 58 dB in normal operation.</description>
+      <appliance_type>Microwave</appliance_type>
+      <noise_level_db>58</noise_level_db>
+      <energy_class>B</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88387</item_id>
+      <locale>en_US</locale>
+      <name>Sage Barista Express Coffee Machine</name>
+      <url>https://voltera.example/p/vlt-88387</url>
+      <image_url>https://voltera.example/img/vlt-88387.jpg</image_url>
+      <group_code>GRP-vlt-88387</group_code>
+      <brand>Sage</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Coffee machine</category>
+      <product_type>Coffee machine</product_type>
+      <price>699.00</price>
+      <original_price>699.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>55</stock_count>
+      <color>Silver</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Coffee machine from Sage, measured at 72 dB in normal operation.</description>
+      <appliance_type>Coffee machine</appliance_type>
+      <noise_level_db>72</noise_level_db>
+      <energy_class>D</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88388</item_id>
+      <locale>en_US</locale>
+      <name>Sage Bambino Plus</name>
+      <url>https://voltera.example/p/vlt-88388</url>
+      <image_url>https://voltera.example/img/vlt-88388.jpg</image_url>
+      <group_code>GRP-vlt-88388</group_code>
+      <brand>Sage</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Coffee machine</category>
+      <product_type>Coffee machine</product_type>
+      <price>449.00</price>
+      <original_price>560.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>39</stock_count>
+      <color>Silver</color>
+      <use_case>Home</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Coffee machine from Sage, measured at 70 dB in normal operation.</description>
+      <appliance_type>Coffee machine</appliance_type>
+      <noise_level_db>70</noise_level_db>
+      <energy_class>B</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88389</item_id>
+      <locale>en_US</locale>
+      <name>Dyson V15 Detect Vacuum</name>
+      <url>https://voltera.example/p/vlt-88389</url>
+      <image_url>https://voltera.example/img/vlt-88389.jpg</image_url>
+      <group_code>GRP-vlt-88389</group_code>
+      <brand>Dyson</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Vacuum</category>
+      <product_type>Vacuum</product_type>
+      <price>649.00</price>
+      <original_price>649.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>55</stock_count>
+      <color>Black</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Vacuum from Dyson, measured at 78 dB in normal operation.</description>
+      <appliance_type>Vacuum</appliance_type>
+      <noise_level_db>78</noise_level_db>
+      <energy_class>B</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88391</item_id>
+      <locale>en_US</locale>
+      <name>Dyson V8 Absolute Vacuum</name>
+      <url>https://voltera.example/p/vlt-88391</url>
+      <image_url>https://voltera.example/img/vlt-88391.jpg</image_url>
+      <group_code>GRP-vlt-88391</group_code>
+      <brand>Dyson</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Vacuum</category>
+      <product_type>Vacuum</product_type>
+      <price>349.00</price>
+      <original_price>349.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>25</stock_count>
+      <color>Silver</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Vacuum from Dyson, measured at 80 dB in normal operation.</description>
+      <appliance_type>Vacuum</appliance_type>
+      <noise_level_db>80</noise_level_db>
+      <energy_class>B</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88392</item_id>
+      <locale>en_US</locale>
+      <name>Dyson Purifier Cool TP07</name>
+      <url>https://voltera.example/p/vlt-88392</url>
+      <image_url>https://voltera.example/img/vlt-88392.jpg</image_url>
+      <group_code>GRP-vlt-88392</group_code>
+      <brand>Dyson</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Air purifier</category>
+      <product_type>Air purifier</product_type>
+      <price>549.00</price>
+      <original_price>549.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>37</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Air purifier from Dyson, measured at 56 dB in normal operation.</description>
+      <appliance_type>Air purifier</appliance_type>
+      <noise_level_db>56</noise_level_db>
+      <energy_class>D</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88394</item_id>
+      <locale>en_US</locale>
+      <name>Philips AirSense Air Purifier</name>
+      <url>https://voltera.example/p/vlt-88394</url>
+      <image_url>https://voltera.example/img/vlt-88394.jpg</image_url>
+      <group_code>GRP-vlt-88394</group_code>
+      <brand>Philips</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Air purifier</category>
+      <product_type>Air purifier</product_type>
+      <price>299.00</price>
+      <original_price>299.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>32</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Air purifier from Philips, measured at 51 dB in normal operation.</description>
+      <appliance_type>Air purifier</appliance_type>
+      <noise_level_db>51</noise_level_db>
+      <energy_class>D</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88395</item_id>
+      <locale>en_US</locale>
+      <name>Asus ProArt Display 27" 4K</name>
+      <url>https://voltera.example/p/vlt-88395</url>
+      <image_url>https://voltera.example/img/vlt-88395.jpg</image_url>
+      <group_code>GRP-vlt-88395</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Monitors</category>
+      <product_type>Monitor</product_type>
+      <price>499.00</price>
+      <original_price>585.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>35</stock_count>
+      <color>Grey</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Monitor for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Monitor</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-A</connectivity>
+      <screen_size>32.0</screen_size>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>60</refresh_rate_hz>
+    </item>
+    <item>
+      <item_id>VLT-88396</item_id>
+      <locale>en_US</locale>
+      <name>Asus ZenScreen 16" Portable</name>
+      <url>https://voltera.example/p/vlt-88396</url>
+      <image_url>https://voltera.example/img/vlt-88396.jpg</image_url>
+      <group_code>GRP-vlt-88396</group_code>
+      <brand>Asus</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Monitors</category>
+      <product_type>Monitor</product_type>
+      <price>279.00</price>
+      <original_price>279.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>10</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Monitor for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Monitor</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-A</connectivity>
+      <screen_size>32.0</screen_size>
+      <resolution>QHD</resolution>
+      <refresh_rate_hz>144</refresh_rate_hz>
+    </item>
+    <item>
+      <item_id>VLT-88397</item_id>
+      <locale>en_US</locale>
+      <name>Dell UltraSharp U2723QE 27"</name>
+      <url>https://voltera.example/p/vlt-88397</url>
+      <image_url>https://voltera.example/img/vlt-88397.jpg</image_url>
+      <group_code>GRP-vlt-88397</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Monitors</category>
+      <product_type>Monitor</product_type>
+      <price>579.00</price>
+      <original_price>579.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>45</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Monitor for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Monitor</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+      <screen_size>27.0</screen_size>
+      <resolution>4K</resolution>
+      <refresh_rate_hz>144</refresh_rate_hz>
+    </item>
+    <item>
+      <item_id>VLT-88399</item_id>
+      <locale>en_US</locale>
+      <name>Dell S2725H 27" IPS</name>
+      <url>https://voltera.example/p/vlt-88399</url>
+      <image_url>https://voltera.example/img/vlt-88399.jpg</image_url>
+      <group_code>GRP-vlt-88399</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Monitors</category>
+      <product_type>Monitor</product_type>
+      <price>229.00</price>
+      <original_price>229.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>16</stock_count>
+      <color>Silver</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Monitor for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Monitor</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+      <screen_size>16.0</screen_size>
+      <resolution>QHD</resolution>
+      <refresh_rate_hz>144</refresh_rate_hz>
+    </item>
+    <item>
+      <item_id>VLT-88402</item_id>
+      <locale>en_US</locale>
+      <name>LG UltraGear 27" QHD</name>
+      <url>https://voltera.example/p/vlt-88402</url>
+      <image_url>https://voltera.example/img/vlt-88402.jpg</image_url>
+      <group_code>GRP-vlt-88402</group_code>
+      <brand>LG</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Monitors</category>
+      <product_type>Monitor</product_type>
+      <price>349.00</price>
+      <original_price>390.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>60</stock_count>
+      <color>White</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Monitor for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Monitor</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+      <screen_size>24.0</screen_size>
+      <resolution>QHD</resolution>
+      <refresh_rate_hz>75</refresh_rate_hz>
+    </item>
+    <item>
+      <item_id>VLT-88404</item_id>
+      <locale>en_US</locale>
+      <name>Logitech MX Keys S Keyboard</name>
+      <url>https://voltera.example/p/vlt-88404</url>
+      <image_url>https://voltera.example/img/vlt-88404.jpg</image_url>
+      <group_code>GRP-vlt-88404</group_code>
+      <brand>Logitech</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Keyboards</category>
+      <product_type>Keyboard</product_type>
+      <price>119.00</price>
+      <original_price>119.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>47</stock_count>
+      <color>Grey</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Keyboard for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Keyboard</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88406</item_id>
+      <locale>en_US</locale>
+      <name>Logitech K380 Multi-Device Keyboard</name>
+      <url>https://voltera.example/p/vlt-88406</url>
+      <image_url>https://voltera.example/img/vlt-88406.jpg</image_url>
+      <group_code>GRP-vlt-88406</group_code>
+      <brand>Logitech</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Keyboards</category>
+      <product_type>Keyboard</product_type>
+      <price>39.00</price>
+      <original_price>45.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>35</stock_count>
+      <color>White</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Keyboard for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Keyboard</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-A</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88407</item_id>
+      <locale>en_US</locale>
+      <name>Logitech MX Master 3S Mouse</name>
+      <url>https://voltera.example/p/vlt-88407</url>
+      <image_url>https://voltera.example/img/vlt-88407.jpg</image_url>
+      <group_code>GRP-vlt-88407</group_code>
+      <brand>Logitech</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Mouses</category>
+      <product_type>Mouse</product_type>
+      <price>109.00</price>
+      <original_price>109.00</original_price>
+      <currency>USD</currency>
+      <in_stock>0</in_stock>
+      <stock_count>0</stock_count>
+      <color>Grey</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Mouse for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Mouse</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-A</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88409</item_id>
+      <locale>en_US</locale>
+      <name>Logitech M240 Silent Mouse</name>
+      <url>https://voltera.example/p/vlt-88409</url>
+      <image_url>https://voltera.example/img/vlt-88409.jpg</image_url>
+      <group_code>GRP-vlt-88409</group_code>
+      <brand>Logitech</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Mouses</category>
+      <product_type>Mouse</product_type>
+      <price>29.00</price>
+      <original_price>35.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>56</stock_count>
+      <color>White</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Mouse for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Mouse</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88411</item_id>
+      <locale>en_US</locale>
+      <name>Logitech Ergo K860 Keyboard</name>
+      <url>https://voltera.example/p/vlt-88411</url>
+      <image_url>https://voltera.example/img/vlt-88411.jpg</image_url>
+      <group_code>GRP-vlt-88411</group_code>
+      <brand>Logitech</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Keyboards</category>
+      <product_type>Keyboard</product_type>
+      <price>129.00</price>
+      <original_price>129.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>15</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Keyboard for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Keyboard</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>Bluetooth</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88413</item_id>
+      <locale>en_US</locale>
+      <name>Apple Magic Keyboard</name>
+      <url>https://voltera.example/p/vlt-88413</url>
+      <image_url>https://voltera.example/img/vlt-88413.jpg</image_url>
+      <group_code>GRP-vlt-88413</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Keyboards</category>
+      <product_type>Keyboard</product_type>
+      <price>109.00</price>
+      <original_price>120.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>17</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Keyboard for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Keyboard</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88414</item_id>
+      <locale>en_US</locale>
+      <name>Apple Magic Mouse</name>
+      <url>https://voltera.example/p/vlt-88414</url>
+      <image_url>https://voltera.example/img/vlt-88414.jpg</image_url>
+      <group_code>GRP-vlt-88414</group_code>
+      <brand>Apple</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Mouses</category>
+      <product_type>Mouse</product_type>
+      <price>85.00</price>
+      <original_price>85.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>49</stock_count>
+      <color>Black</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Mouse for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Mouse</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-A</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88416</item_id>
+      <locale>en_US</locale>
+      <name>Logitech Brio 500 Webcam</name>
+      <url>https://voltera.example/p/vlt-88416</url>
+      <image_url>https://voltera.example/img/vlt-88416.jpg</image_url>
+      <group_code>GRP-vlt-88416</group_code>
+      <brand>Logitech</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Webcams</category>
+      <product_type>Webcam</product_type>
+      <price>129.00</price>
+      <original_price>129.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>3</stock_count>
+      <color>Silver</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Webcam for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Webcam</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88418</item_id>
+      <locale>en_US</locale>
+      <name>Dell USB-C Dock 180W</name>
+      <url>https://voltera.example/p/vlt-88418</url>
+      <image_url>https://voltera.example/img/vlt-88418.jpg</image_url>
+      <group_code>GRP-vlt-88418</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Docks</category>
+      <product_type>Dock</product_type>
+      <price>269.00</price>
+      <original_price>315.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>10</stock_count>
+      <color>Silver</color>
+      <use_case>Home office</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Dock for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Dock</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+    </item>
+    <item>
+      <item_id>VLT-88419</item_id>
+      <locale>en_US</locale>
+      <name>Sage Bambino Plus</name>
+      <url>https://voltera.example/p/vlt-88419</url>
+      <image_url>https://voltera.example/img/vlt-88419.jpg</image_url>
+      <group_code>GRP-vlt-88419</group_code>
+      <brand>Sage</brand>
+      <category>Home &amp; Kitchen &gt; Appliances &gt; Coffee machine</category>
+      <product_type>Coffee machine</product_type>
+      <price>449.00</price>
+      <original_price>560.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>23</stock_count>
+      <color>White</color>
+      <use_case>Home</use_case>
+      <campaign_tag>Peak Deals</campaign_tag>
+      <is_new_arrival>1</is_new_arrival>
+      <description>Coffee machine from Sage, measured at 70 dB in normal operation.</description>
+      <appliance_type>Coffee machine</appliance_type>
+      <noise_level_db>70</noise_level_db>
+      <energy_class>B</energy_class>
+      <warranty_months>24</warranty_months>
+    </item>
+    <item>
+      <item_id>VLT-88421</item_id>
+      <locale>en_US</locale>
+      <name>Dell S2725H 27" IPS</name>
+      <url>https://voltera.example/p/vlt-88421</url>
+      <image_url>https://voltera.example/img/vlt-88421.jpg</image_url>
+      <group_code>GRP-vlt-88421</group_code>
+      <brand>Dell</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Monitors</category>
+      <product_type>Monitor</product_type>
+      <price>229.00</price>
+      <original_price>229.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>16</stock_count>
+      <color>Grey</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Monitor for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Monitor</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+      <screen_size>16.0</screen_size>
+      <resolution>QHD</resolution>
+      <refresh_rate_hz>144</refresh_rate_hz>
+    </item>
+    <item>
+      <item_id>VLT-88424</item_id>
+      <locale>en_US</locale>
+      <name>Microsoft Surface Laptop 6 16GB 512GB</name>
+      <url>https://voltera.example/p/vlt-88424</url>
+      <image_url>https://voltera.example/img/vlt-88424.jpg</image_url>
+      <group_code>GRP-surface-laptop-6</group_code>
+      <brand>Microsoft</brand>
+      <category>Electronics &gt; Computers &gt; Laptops</category>
+      <product_type>Laptop</product_type>
+      <price>1299.00</price>
+      <original_price>1299.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>51</stock_count>
+      <color>White</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>A 1.33 kg 13.5" laptop with 16 GB of memory and a 512 GB SSD, powered by the Intel Core Ultra 5. Rated up to 14 hours of battery life and measured at 22 dB under load, quiet enough for a shared home office.</description>
+      <screen_size>13.5</screen_size>
+      <ram_gb>16</ram_gb>
+      <storage_gb>512</storage_gb>
+      <processor>Intel Core Ultra 5</processor>
+      <graphics>Integrated</graphics>
+      <weight_kg>1.33</weight_kg>
+      <battery_life_hours>14</battery_life_hours>
+      <noise_level_db>22</noise_level_db>
+      <warranty_months>24</warranty_months>
+      <operating_system>Windows 11</operating_system>
+    </item>
+    <item>
+      <item_id>VLT-88426</item_id>
+      <locale>en_US</locale>
+      <name>Logitech Brio 500 Webcam</name>
+      <url>https://voltera.example/p/vlt-88426</url>
+      <image_url>https://voltera.example/img/vlt-88426.jpg</image_url>
+      <group_code>GRP-vlt-88426</group_code>
+      <brand>Logitech</brand>
+      <category>Electronics &gt; Computers &gt; Accessories &gt; Webcams</category>
+      <product_type>Webcam</product_type>
+      <price>129.00</price>
+      <original_price>129.00</original_price>
+      <currency>USD</currency>
+      <in_stock>1</in_stock>
+      <stock_count>44</stock_count>
+      <color>Grey</color>
+      <use_case>Home office</use_case>
+      <is_new_arrival>0</is_new_arrival>
+      <description>Webcam for desk and home-office setups. Compatible with Windows and macOS.</description>
+      <peripheral_type>Webcam</peripheral_type>
+      <warranty_months>24</warranty_months>
+      <connectivity>USB-C</connectivity>
+    </item>
+  </channel>
+</catalog>
